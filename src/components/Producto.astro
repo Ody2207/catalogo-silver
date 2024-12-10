@@ -1,0 +1,99 @@
+---
+import Etiquetas from '../components/Etiquetas.astro'
+
+const {nombre, etiquetas, descripcion, precio, codigo, imagen} = Astro.props
+
+interface Etiqueta {
+    id: number
+    name: string
+}
+console.log(imagen)
+---
+
+<section>
+    <!-- <img src="https://drive.google.com/thumbnail?id=1Gr72FouyAT-GnrDScOs2zszTjO94IrzW" alt={`${nombre}`} /> -->
+    <img src={imagen} alt={`Imagen de ${nombre}`} />
+    <div class="contenedor-info">
+        <h2>{nombre}</h2>
+        <div class="etiquetas">
+            {
+                etiquetas.map((etiqueta: Etiqueta) => (
+                    <Etiquetas name={etiqueta} />
+                ))
+            }
+            
+        </div>
+        <p class="descripcion">{descripcion}</p>
+    </div>
+    
+    <div class="price">
+        <h3>Código: {codigo}</h3>
+        <div class="contenedor-precio">
+            <p class="item price__name">Precio:</p>
+            <p class="item price__number">{precio}</p>
+        </div>
+    </div>
+</section>
+
+<style>
+    section {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .contenedor-info {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    img {
+        width: 100%;
+        border-radius: 5px;
+    }
+    h2 {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    .etiquetas {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    .price {
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+        justify-content: space-between;
+    }
+    .descripcion {
+        height: 100px;
+    }
+    .contenedor-precio {
+        display: flex;
+        gap: 5px;
+        justify-content: space-between;
+    }
+    h3 {
+        font-family: inter;
+        font-size: .8rem;
+        color: #777777;
+        margin: 0;
+    }
+    .item {
+        margin-top: 3px;
+        display: flex;
+        align-items: center;
+        padding-left: 10px;
+        width: 60%;
+        height: 2.5rem;
+        border: 3px solid black;
+        color: black;
+    }
+    .price__name {
+        width: 60%;   
+
+    }
+    .price__number {
+        width: 40%;
+    }
+</style>

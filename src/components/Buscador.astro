@@ -1,0 +1,49 @@
+<div class="search-container">
+    <i class="search-icon">🔍</i>
+    <input type="text" placeholder="Buscar" class="search-input">
+    <i class="edit-icon">✏️</i>
+</div>
+
+<style>
+    /* Estilo del contenedor */
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: #1e1e1e; /* Color de fondo oscuro */
+  border-radius: 8px; /* Bordes redondeados */
+  padding: 8px 12px;
+  width: 300px; /* Ancho del input */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Sombra para el contenedor */
+}
+
+/* Icono de búsqueda */
+.search-icon {
+  color: #aaa; /* Color del icono */
+  font-size: 16px; /* Tamaño del icono */
+  margin-right: 8px; /* Espaciado del icono izquierdo */
+}
+
+/* Estilo del input */
+.search-input {
+  flex: 1; /* Ocupa todo el espacio disponible */
+  background-color: transparent; /* Fondo transparente */
+  border: none; /* Sin bordes */
+  color: #fff; /* Color del texto */
+  font-size: 16px; /* Tamaño del texto */
+  outline: none; /* Sin contorno al seleccionar */
+}
+
+/* Icono de edición */
+.edit-icon {
+  color: #aaa; /* Color del icono */
+  font-size: 16px; /* Tamaño del icono */
+  margin-left: 8px; /* Espaciado del icono derecho */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el icono */
+}
+
+/* Placeholder estilizado */
+.search-input::placeholder {
+  color: #888; /* Color del placeholder */
+  font-style: italic; /* Estilo del texto del placeholder */
+}
+</style>

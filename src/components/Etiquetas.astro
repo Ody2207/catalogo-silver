@@ -1,0 +1,59 @@
+---
+const { name } = Astro.props
+---
+
+{ name === "En stock" ? (
+    <div class="con-stock">
+        <p>{name}</p>
+    </div>
+) : name === "Por pedido" ? (
+    <div class="sin-stock">
+        <p>{name}</p>
+    </div>
+) : name === "Zirconia" ? ( 
+    <div class="zirconia">
+        <p>{name}</p>
+    </div>
+) : (
+    <div>
+        <p>{name}</p>
+    </div>
+)}
+
+<style>
+    /* Colores */
+    /* 
+    B5EAEA
+    EDF6E5 -> Default
+    FFBCBC 
+    F38BA0 
+
+    CB9DF0
+    Se se gusta despues se agrega un algoritmo para que se generen colores aleatorios */
+
+    div {
+        height: 23px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #EDF6E5;
+        padding: 5px 10px;
+        border-radius: 4px;
+    }
+    p  {
+        margin: 0;
+        font-size: 15px;
+        color: black;
+    }
+    .con-stock {
+        background-color: #B5EAEA;
+    }
+    .sin-stock {
+        background-color: #FFBCBC;
+    }
+    .zirconia {
+        background-color: #e6c8ff;
+        color: white;
+    }
+
+</style>

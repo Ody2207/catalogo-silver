@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Pulsera con zirconia",
+        "etiquetas": ["En stock", "Zirconia", "Pulsera", "Pulso", "Made in Mexico"],
+        "descripcion": "Pulsera con zirconia en plata .925 artezanal desde Taxco",
+        "precio": "$1,499 MXN",
+        "codigo": "PULSO00016007",
+        "url": "https://drive.google.com/file/d/1Gxw1e9WupPKaL3S2U167nRlK1u3UKxNa/view?usp=drive_link"
+    }, 
+    {
+        "nombre": "Pulsera Van Cleef",
+        "etiquetas": ["En stock", "Verde", "Pulsera", "Pulso", "Made in Mexico"],
+        "descripcion": "Pulsera Van Cleef en plata .925 artezanal desde taxco, 25cm y 2mm de ancho color verde",
+        "precio": "$299 MXN",
+        "codigo": "PULSO00022302",
+        "url": "https://drive.google.com/file/d/1GwGLb1P39P3V4-ilr1KhdouLp5EHf0zb/view?usp=drive_link"
+    },
+    {
+        "nombre": "Esclava de plata",
+        "etiquetas": ["En stock", "Cuchilla", "Pulsera", "Pulso", "Made in Mexico"],
+        "descripcion": "Pulsera con zirconia en plata .925 artezanal desde Taxco",
+        "precio": "$499 MXN",
+        "codigo": "PULSO00016007",
+        "url": "https://drive.google.com/file/d/1GrbpeWayAPqbyDsogMayIWdkMVdlbweV/view?usp=drive_link"
+    },
+    {
+        "nombre": "Pulsera Van Cleef",
+        "etiquetas": ["En stock", "Verde", "Pulsera", "Pulso", "Made in Mexico"],
+        "descripcion": "Pulsera Van Cleef en plata .925 artezanal desde taxco, 25cm y 2mm de ancho color verde",
+        "precio": "$299 MXN",
+        "codigo": "PULSO00022302",
+        "url": "https://drive.google.com/file/d/1GwGLb1P39P3V4-ilr1KhdouLp5EHf0zb/view?usp=drive_link"
+    },
+    {
+        "nombre": "Esclava de plata",
+        "etiquetas": ["En stock", "Cuchilla", "Pulsera", "Pulso", "Made in Mexico"],
+        "descripcion": "Pulsera con zirconia en plata .925 artezanal desde Taxco",
+        "precio": "$499 MXN",
+        "codigo": "PULSO00016007",
+        "url": "https://drive.google.com/file/d/1GrbpeWayAPqbyDsogMayIWdkMVdlbweV/view?usp=drive_link"
+    }
+]
