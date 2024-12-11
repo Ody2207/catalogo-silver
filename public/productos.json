@@ -1,42 +1,51 @@
-[
+[   
     {
-        "nombre": "Pulsera con zirconia",
-        "etiquetas": ["En stock", "Zirconia", "Pulsera", "Pulso", "Made in Mexico"],
-        "descripcion": "Pulsera con zirconia en plata .925 artezanal desde Taxco",
+        "nombre": "Pulsera Cubana",
+        "etiquetas": ["En stock", "Zirconia", "16.7", "21cm", "10mm", "Made in Mexico"],
+        "descripcion": "Pulsera Cubana con zirconia: diseño robusto y elegante con brillo excepcional. Perfecta para destacar en cualquier ocasión. ¡Hazla tuya!",
         "precio": "$1,499 MXN",
-        "codigo": "PULSO00016007",
-        "url": "https://drive.google.com/file/d/1Gxw1e9WupPKaL3S2U167nRlK1u3UKxNa/view?usp=drive_link"
+        "codigo": "PULSO000502110",
+        "url": "https://drive.google.com/file/d/1JUSbFAds1yShQK-dA6pvKJ2g-JET-99P/view?usp=drive_link"
+    },
+    {
+        "nombre": "Cadena Cubana Premium con Zirconia",
+        "etiquetas": ["En stock", "Zirconia", "24g", "60cm", "06mm"],
+        "descripcion": "Cadena cubana con zirconia: brillo excepcional y diseño imponente. Perfecta para destacar con estilo y sofisticación. ¡Hazla tuya!",
+        "precio": "$1,299 MXN",
+        "codigo": "CADENA000026006",
+        "url": "https://drive.google.com/file/d/1HZmraBJpjzFhSk-cK01f9VnuvHDBYUBX/view?usp=drive_link"
     }, 
     {
+        "nombre": "Cadena Cubana Premium con Zirconia",
+        "etiquetas": ["En stock", "Zirconia", "27g", "55cm", "06mm"],
+        "descripcion": "Cadena cubana con zirconia: brillo excepcional y diseño imponente. Perfecta para destacar con estilo y sofisticación. ¡Hazla tuya!",
+        "precio": "$1,199 MXN",
+        "codigo": "CADENA000015506",
+        "url": "https://drive.google.com/file/d/1HZmraBJpjzFhSk-cK01f9VnuvHDBYUBX/view?usp=drive_link"
+    }, 
+    {
+        "nombre": "Cadena Cartier",
+        "etiquetas": ["En stock", "24.6g", "60cm", "07mm", "04mm"],
+        "descripcion": "Elegancia versátil para cualquier ocasión. Diseño impecable que combina estilo y simplicidad. ¡Perfecta para ti!",
+        "precio": "$1,199 MXN",
+        "codigo": "CADENA000506007",
+        "url": "https://drive.google.com/file/d/1IPgWO6g9xsmZPMPKHDQmhY4KtDFFa9ce/view?usp=drive_link"
+    },
+    {
         "nombre": "Pulsera Van Cleef",
-        "etiquetas": ["En stock", "Verde", "Pulsera", "Pulso", "Made in Mexico"],
-        "descripcion": "Pulsera Van Cleef en plata .925 artezanal desde taxco, 25cm y 2mm de ancho color verde",
+        "etiquetas": ["En stock", "1.9g", "18cm", "01mm", "Verde", "Negro", "Azul", "Rojo"],
+        "descripcion": "Un diseño elegante y minimalista que resalta la belleza de la simplicidad. Perfecta para cualquier ocasión.",
         "precio": "$299 MXN",
-        "codigo": "PULSO00022302",
-        "url": "https://drive.google.com/file/d/1GwGLb1P39P3V4-ilr1KhdouLp5EHf0zb/view?usp=drive_link"
-    },
-    {
-        "nombre": "Esclava de plata",
-        "etiquetas": ["En stock", "Cuchilla", "Pulsera", "Pulso", "Made in Mexico"],
-        "descripcion": "Pulsera con zirconia en plata .925 artezanal desde Taxco",
-        "precio": "$499 MXN",
-        "codigo": "PULSO00016007",
-        "url": "https://drive.google.com/file/d/1GrbpeWayAPqbyDsogMayIWdkMVdlbweV/view?usp=drive_link"
+        "codigo": "PULSO000011801",
+        "url": "https://drive.google.com/file/d/1IzwatOi1xhKS5geoZYkFqbH98RY-Hc8I/view?usp=drive_link"
     },
     {
         "nombre": "Pulsera Van Cleef",
-        "etiquetas": ["En stock", "Verde", "Pulsera", "Pulso", "Made in Mexico"],
-        "descripcion": "Pulsera Van Cleef en plata .925 artezanal desde taxco, 25cm y 2mm de ancho color verde",
-        "precio": "$299 MXN",
-        "codigo": "PULSO00022302",
-        "url": "https://drive.google.com/file/d/1GwGLb1P39P3V4-ilr1KhdouLp5EHf0zb/view?usp=drive_link"
-    },
-    {
-        "nombre": "Esclava de plata",
-        "etiquetas": ["En stock", "Cuchilla", "Pulsera", "Pulso", "Made in Mexico"],
-        "descripcion": "Pulsera con zirconia en plata .925 artezanal desde Taxco",
+        "etiquetas": ["En stock", "7.9g", "21cm", "02mm", "Varios colores"],
+        "descripcion": "Una pieza icónica que combina elegancia clásica y un estilo audaz. ¡Destaca con ella!",
         "precio": "$499 MXN",
-        "codigo": "PULSO00016007",
-        "url": "https://drive.google.com/file/d/1GrbpeWayAPqbyDsogMayIWdkMVdlbweV/view?usp=drive_link"
+        "codigo": "PULSO000102502",
+        "url": "https://drive.google.com/file/d/1In26ZBy1fyfj0BD22gTwjBGTtxalpcl7/view?usp=drive_link"
     }
+    
 ]
