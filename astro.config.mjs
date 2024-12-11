@@ -5,6 +5,4 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     site: 'https://Ody2207.gitlab.io',
     base: 'catalogo-silver',
-    outDir: 'public',
-    publicDir: 'static',
-  });
+});
