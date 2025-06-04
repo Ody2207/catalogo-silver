@@ -1,56 +1,5 @@
 [
-<<<<<<< HEAD
-    {
-        "nombre": "Music Fest 2023: Vibras Electrónicas ",
-        "etiquetas": ["Música en vivo", "Festival nocturno", "DJ y artistas"],
-        "descripcion": "Prepárate para una noche inolvidable en el Music Fest este 28 de diciembre.",
-        "precio": "$499 MXN",
-        "codigo": "",
-        "url": "https://drive.google.com/file/d/1KKUmXxGJtK8k46HOhqteGYgLYDFIHttL/view?usp=drive_link"
-    },
-    {
-        "nombre": "Music Festival: Ritmos de Verano",
-        "etiquetas": ["Festival gratuito", "Música al aire libre", "Artistas emergentes"],
-        "descripcion": "¡El verano comienza con música y energía en el Music Festival este 12 de junio!",
-        "precio": "$1,199 MXN",
-        "codigo": "",
-        "url": "https://drive.google.com/file/d/1KIDbfaFYVc9NOq8SNTp0ff9mh7qzCOUs/view?usp=drive_link"
-    },
-    {
-        "nombre": "Music Fest 2025: Voces del Futuro ",
-        "etiquetas": ["Concierto en vivo", "Artistas destacados", "Evento nocturno"],
-        "descripcion": "¡No te pierdas el Music Fest 2025 este 22 de octubre a las 6 PM! Un evento lleno de talento y pasión",
-        "precio": "$599 MXN",
-        "codigo": "",
-        "url": "https://drive.google.com/file/d/1KI-oPSHq_Um9rSPtQnyS2rk9Q7VsHsYU/view?usp=drive_link"
-    },
-    {
-        "nombre": "Trueno: Poder Latino en el Escenario",
-        "etiquetas": ["Rap en español", "Cultura urbana", "Lírica poderosa"],
-        "descripcion": "Descubre el impacto de Trueno, el ícono que está transformando el rap en español.",
-        "precio": "$699 MXN",
-        "codigo": "",
-        "url": "https://drive.google.com/file/d/1KHUQMSA_OjAarXniuF8bsvsUgs12rc7t/view?usp=drive_link"
-    },
-    {
-        "nombre": "Kanye West: Creando su Propia Realidad",
-        "etiquetas": ["Ícono musical", "Innovación artística", "Estilo misterioso"],
-        "descripcion": "Explora el universo de Kanye West, un visionario que redefine los límites del arte y la música.",
-        "precio": "$200 MXN",
-        "codigo": "",
-        "url": "https://drive.google.com/file/d/1KGnuaQmk1xHLrQamluOCYqJh1eQNhk5-/view?usp=drive_link"
-    },
-    {
-        "nombre": "Yevolution Tour: Transformando la Música",
-        "etiquetas": ["Kanye West en vivo", "Innovación musical", "Artistas invitados"],
-        "descripcion": "El Yevolution Tour llega para revolucionar tu percepción de la música.",
-        "precio": "$3,000 MXN",
-        "codigo": "",
-        "url": "https://drive.google.com/file/d/1KF0ry8vcw--VyrBRTwj5LZE3f-bxuH5A/view?usp=drive_link"
-    }
-]
-=======
-  {
+      {
     "nombre": "Music Fest 2025: Vibras Electrónicas",
     "etiquetas": ["Música en vivo", "Festival nocturno", "DJ y artistas"],
     "descripcion": "Prepárate para una noche inolvidable en el Music Fest este 28 de diciembre con DJ EchoStorm y Ella Vibe.",
@@ -131,4 +80,3 @@
     "url": "https://drive.google.com/file/d/1ztMbUKLAHlkVfnQtgANUbkBGjzMsA-Mg/view?usp=drive_link"
   }
 ]
->>>>>>> fb0ac0d (feat: Nuevo proyecto de Ingles)
