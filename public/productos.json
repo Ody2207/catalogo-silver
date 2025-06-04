@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
     {
         "nombre": "Music Fest 2023: Vibras Electrónicas ",
         "etiquetas": ["Música en vivo", "Festival nocturno", "DJ y artistas"],
@@ -48,3 +49,86 @@
         "url": "https://drive.google.com/file/d/1KF0ry8vcw--VyrBRTwj5LZE3f-bxuH5A/view?usp=drive_link"
     }
 ]
+=======
+  {
+    "nombre": "Music Fest 2025: Vibras Electrónicas",
+    "etiquetas": ["Música en vivo", "Festival nocturno", "DJ y artistas"],
+    "descripcion": "Prepárate para una noche inolvidable en el Music Fest este 28 de diciembre con DJ EchoStorm y Ella Vibe.",
+    "precio": "$800 MXN",
+    "codigo": "F3CCDD27",
+    "url": "https://drive.google.com/file/d/1xGDwQ9lbn7dMTHtv4nwoNLadVhwVtWOC/view?usp=drive_link"
+  },
+  {
+    "nombre": "Soul & Groove Festival",
+    "etiquetas": ["Soul", "Groove", "Entrada libre"],
+    "descripcion": "Celebra el ritmo del soul con talento local e internacional este 12 de junio. ¡Entrada gratuita!",
+    "precio": "Gratis",
+    "codigo": "156005C5",
+    "url": "https://drive.google.com/file/d/1Fr1wXa4KD-by6KfuSHp4o1xejH8-LIYM/view?usp=drive_link"
+  },
+  {
+    "nombre": "Urban Vibes 2025",
+    "etiquetas": ["Rap", "Música urbana", "Latinoamérica"],
+    "descripcion": "Trueno presenta su estilo callejero y poderosa lírica en un show que rompe fronteras.",
+    "precio": "$950 MXN",
+    "codigo": "799BAD5A",
+    "url": "https://drive.google.com/file/d/1UBwa0CaQTq-QVCHPUsdq-In47FmjKEhk/view?usp=drive_link"
+  },
+  {
+    "nombre": "Kanye West: Realidad en Vivo",
+    "etiquetas": ["Kanye West", "Show visual", "Hip-hop"],
+    "descripcion": "Una edición exclusiva que revela al genio detrás del misterio. Noches de arte, luces y música intensa.",
+    "precio": "$1200 MXN",
+    "codigo": "D0096EC6",
+    "url": "https://drive.google.com/file/d/1ZGl85jTp3QFej0TiUyXiHE5bvT9f9YvD/view?usp=drive_link"
+  },
+  {
+    "nombre": "Yevolution Tour",
+    "etiquetas": ["Rap", "Kanye West", "Tour gratuito"],
+    "descripcion": "Un evento sin precedentes con Travis Scott, Kid Cudi y más. Totalmente gratis en el campus UVM.",
+    "precio": "Gratis",
+    "codigo": "032B2CC9",
+    "url": "https://drive.google.com/file/d/1Ha1KaGNiXAeXlqEEfEujnMyuvVZpHA7k/view?usp=drive_link"
+  },
+  {
+    "nombre": "Chicago Music Festival",
+    "etiquetas": ["Música en vivo", "Festival anual", "Chicago"],
+    "descripcion": "Vive la quinta edición de este clásico festival musical con shows en el Last Auditorium.",
+    "precio": "$500 MXN",
+    "codigo": "FB184A10",
+    "url": "https://drive.google.com/file/d/1INV-snLx38_jH__h1wJJjM9JlJaS0_V8/view?usp=drive_link"
+  },
+  {
+    "nombre": "Electro Night Festival",
+    "etiquetas": ["Electrónica", "Luces", "Club nocturno"],
+    "descripcion": "El 18 de julio se enciende la pista con lo mejor del electro moderno. ¡No te lo pierdas!",
+    "precio": "$700 MXN",
+    "codigo": "0F6DA30C",
+    "url": "https://drive.google.com/file/d/1q91YdOTDus-Zsbvc88XxGS6x2QQXKeKU/view?usp=drive_link"
+  },
+  {
+    "nombre": "City Beats 2025",
+    "etiquetas": ["Indie", "Rock", "DJ Sets"],
+    "descripcion": "Festival urbano en NYC con bandas y DJs de renombre. Sábado 2 de julio en City Fields Queens.",
+    "precio": "$650 MXN",
+    "codigo": "4D47D6F2",
+    "url": "https://drive.google.com/file/d/1NKXi2r48B1pMiv5xWEv7wPtuT96CFj02/view?usp=drive_link"
+  },
+  {
+    "nombre": "Noches de Jazz 2025",
+    "etiquetas": ["Jazz", "Concierto íntimo", "Instrumental"],
+    "descripcion": "Sumérgete en una experiencia de jazz cálido este 24 de octubre. Solo para verdaderos amantes del género.",
+    "precio": "$550 MXN",
+    "codigo": "653F7800",
+    "url": "https://drive.google.com/file/d/1r62VL2kBN8csQkrb4f8c0hJZD6JjL8MM/view?usp=drive_link"
+  },
+  {
+    "nombre": "Music Fest 2025: Rock Edition",
+    "etiquetas": ["Rock", "Conciertos en vivo", "Artistas emergentes"],
+    "descripcion": "Una velada cargada de guitarras, batería y mucha energía con lo mejor del rock del 2025.",
+    "precio": "$750 MXN",
+    "codigo": "D3CF58CE",
+    "url": "https://drive.google.com/file/d/1ztMbUKLAHlkVfnQtgANUbkBGjzMsA-Mg/view?usp=drive_link"
+  }
+]
+>>>>>>> fb0ac0d (feat: Nuevo proyecto de Ingles)
